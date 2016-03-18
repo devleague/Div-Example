@@ -24,5 +24,5 @@ function createpic () {
 	if (area === 5) {
 		color = 'violet';
 	};
-	document.getElementById(color).innerHTML = "<img src='link.gif'>";
+	document.getElementById(color).innerHTML = "<img src='images/link.gif'>";
 };
